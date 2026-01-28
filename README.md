@@ -1,70 +1,91 @@
+👋 Oi, eu sou a Alexandra!
 
-# Olá, eu sou Alexandra! 👋
+💻 Desenvolvedora Full Stack Júnior
+⚙️ Backend: Python & FastAPI
+🎨 Frontend: React & TypeScript
 
-Sou uma desenvolvedora full stack apaixonada por tecnologia e inovação. Adoro enfrentar desafios e estou sempre buscando aprender novas habilidades na área de desenvolvimento de software.
+Curto transformar ideias em software que funciona de verdade.
+Gosto especialmente de backend: regras de negócio bem definidas, APIs organizadas e código que dá pra manter sem dor de cabeça.
 
-## 🔭 Atualmente trabalhando em:
+No frontend, uso React com TypeScript pra fechar o ciclo e entregar soluções completas — sempre pensando na integração limpa entre as camadas.
 
-- Desenvolvimento de um aplicativo Kanban para logística na construção de rodovias.
-- Sites e aplicativos usando **React**, **TypeScript**, **Node.js**, e **MongoDB**.
+🚀 O que eu faço na prática
 
-## 🌱 Atualmente aprendendo:
+Desenvolvo APIs REST com Python e FastAPI
 
-- Aprimorando minhas habilidades em **backend** com **Node.js** e **Express**.
-- Explorando novas tecnologias como **Next.js** e **Elastic Search**.
+Organizo projetos pensando em escala e manutenção
 
-## 💼 Experiência:
+Trabalho com regras de negócio, validação e boas práticas
 
-- Desenvolvimento frontend com **HTML**, **CSS**, **React**, **Next.js**, e **Angular**.
-- Desenvolvimento backend com **Node.js** em **JavaScript** e **TypeScript**.
-- Banco de dados com **MongoDB** e **Elastic Search**.
+Crio interfaces modernas com React + TypeScript
 
-## 🚀 Objetivos:
+Versiono tudo com Git & GitHub
 
-- Conseguir uma vaga de estágio na área de desenvolvimento full stack.
-- Contribuir para projetos open source e ampliar meu portfólio.
+🧰 Stack
 
-## 📫 Entre em contato:
+Backend
+Python · FastAPI · APIs REST · Pydantic · JWT (conceitos)
 
-- [LinkedIn](https://www.linkedin.com/in/alexandra-almeida-b74404180/)
-- [E-mail](mailto\:almeidaalexandra@gmail.com)
-- [GitHub](https://github.com/Alexandra-Almeida-DV)
----
+Frontend
+React · TypeScript · HTML · CSS
 
-🌟 *Se você gostou dos meus projetos, não se esqueça de dar uma estrela!*
+Banco de dados
+SQLite · MongoDB · PostgreSQL (conceitos)
 
-## Habilidades
+Outros
+Git · GitHub · Arquitetura de Software · Modelagem de Dados
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+🧠 Projetos que me representam
+🔹 Backend Reutilizável com FastAPI
 
-## Projetos
+Um backend pensado para ser reaproveitado em diferentes projetos.
 
-- [Site Psicoterapeuta](https://tamiresmartinspsi.com.br/):  Desenvolvi um site moderno e funcional para uma psicoterapeuta, com o objetivo de melhorar sua presença online e facilitar o agendamento de consultas. Utilizando tecnologias como React, TypeScript e Material-UI, criei uma interface amigável e responsiva que proporciona uma ótima experiência para os usuários.
+O que tem aqui:
 
-Funcionalidades Principais:
+Estrutura modular (routers, services, schemas)
 
-Página Inicial: Apresentação da psicoterapeuta, suas especializações e abordagens terapêuticas.
+Rotas REST com documentação automática (Swagger)
 
-Blog: Seção dedicada para artigos e publicações relacionadas à saúde mental.
-Agenda de Consultas: Sistema de agendamento online que permite aos clientes marcar sessões de forma prática.
+Health check
 
-Contato: Formulário de contato para facilitar a comunicação entre a psicoterapeuta e seus clientes.
+Endpoint de contato com envio de e-mail
 
-Tecnologias Utilizadas:
-Frontend: React, TypeScript, Material-UI
-Backend: Node.js (opcional, se foi utilizado)
-Estilização: CSS personalizado integrado ao Material-UI
-Resultado:
-O site resultante é intuitivo e eficiente, ajudando a psicoterapeuta a alcançar mais clientes e proporcionar um serviço mais acessível.
+Configurações via .env e Pydantic v2
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandra-Almeida-DV&show_icons=true&theme=panda)
+📌 Projeto focado em organização, escalabilidade e boas práticas.
 
-## Troféus
-![trophy](https://github-profile-trophy.vercel.app/?username=Alexandra-Almeida-DV&theme=discord)
+🔹 Site Institucional – Psicoterapeuta
+
+Site moderno e responsivo, desenvolvido com foco em experiência do usuário e limitações reais de hospedagem.
+
+Stack:
+React · TypeScript · Vite
+
+🔹 Sistema de Cadastro em Java (POO)
+
+Projeto acadêmico com cara de projeto profissional.
+
+CRUD completo
+
+POO (herança, abstração, repositórios)
+
+Persistência em arquivos binários
+
+Código organizado e documentado
+
+🎯 O que eu busco
+
+Estou em busca de uma oportunidade como Desenvolvedora Full Stack Júnior ou Estágio Full Stack, com foco em backend, onde eu possa aprender, contribuir e evoluir junto com o time.
+
+📬 Bora conversar?
+
+💼 LinkedIn
+
+💻 GitHub
+
+⭐ Curtiu algum projeto? Uma estrela já faz meu dia 😄
+
+⚡ Curiosidade rápida
+
+Gosto de código limpo, README bem escrito e commits que contam história.
+Se você também, já temos algo em comum 😉
