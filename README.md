@@ -1,91 +1,124 @@
-👋 Oi, eu sou a Alexandra!
+👩‍💻 Alexandra Almeida
 
-💻 Desenvolvedora Full Stack Júnior
-⚙️ Backend: Python & FastAPI
-🎨 Frontend: React & TypeScript
+Full Stack Junior Developer
+Backend-first | Python & FastAPI · Frontend | React & TypeScript
 
-Curto transformar ideias em software que funciona de verdade.
-Gosto especialmente de backend: regras de negócio bem definidas, APIs organizadas e código que dá pra manter sem dor de cabeça.
+Construo aplicações web com foco em arquitetura, organização de código e regras de negócio bem definidas.
+Tenho preferência por backend, onde atuo na modelagem de APIs REST, validação de dados e estruturação de sistemas pensados para crescimento e manutenção.
 
-No frontend, uso React com TypeScript pra fechar o ciclo e entregar soluções completas — sempre pensando na integração limpa entre as camadas.
+No frontend, utilizo React com TypeScript para garantir integração consistente com o backend e uma experiência de uso sólida.
 
-🚀 O que eu faço na prática
-
-Desenvolvo APIs REST com Python e FastAPI
-
-Organizo projetos pensando em escala e manutenção
-
-Trabalho com regras de negócio, validação e boas práticas
-
-Crio interfaces modernas com React + TypeScript
-
-Versiono tudo com Git & GitHub
-
-🧰 Stack
-
+⚙️ Tech Stack
 Backend
-Python · FastAPI · APIs REST · Pydantic · JWT (conceitos)
+
+Python
+
+FastAPI
+
+RESTful APIs
+
+Pydantic
+
+JWT (conceitos)
 
 Frontend
-React · TypeScript · HTML · CSS
 
-Banco de dados
-SQLite · MongoDB · PostgreSQL (conceitos)
+React
 
-Outros
-Git · GitHub · Arquitetura de Software · Modelagem de Dados
+TypeScript
 
-🧠 Projetos que me representam
-🔹 Backend Reutilizável com FastAPI
+HTML5
 
-Um backend pensado para ser reaproveitado em diferentes projetos.
+CSS3
 
-O que tem aqui:
+Databases
 
-Estrutura modular (routers, services, schemas)
+SQLite
 
-Rotas REST com documentação automática (Swagger)
+MongoDB
 
-Health check
+PostgreSQL (conceitos)
 
-Endpoint de contato com envio de e-mail
+Engineering
 
-Configurações via .env e Pydantic v2
+Git & GitHub
 
-📌 Projeto focado em organização, escalabilidade e boas práticas.
+Software Architecture
 
-🔹 Site Institucional – Psicoterapeuta
+Clean Code
 
-Site moderno e responsivo, desenvolvido com foco em experiência do usuário e limitações reais de hospedagem.
+Domain-driven thinking (conceitos)
+
+🧠 Selected Projects
+🔹 Reusable Backend API (FastAPI)
+
+Backend API projetada para ser reutilizável em múltiplas aplicações.
+
+Highlights:
+
+Modular architecture (routers, services, schemas)
+
+Automatic API documentation (Swagger / OpenAPI)
+
+Health check endpoint
+
+Contact endpoint with email integration
+
+Environment-based configuration with Pydantic v2
+
+Stack:
+Python · FastAPI · REST · Git
+
+🔹 Institutional Website – Psychotherapist
+
+Frontend application developed with real-world hosting constraints and user experience in mind.
+
+Highlights:
+
+Responsive layout
+
+Clean component structure
+
+Backend integration ready
 
 Stack:
 React · TypeScript · Vite
 
-🔹 Sistema de Cadastro em Java (POO)
+🔹 Java Registration System (OOP)
 
-Projeto acadêmico com cara de projeto profissional.
+Backend-oriented academic project focused on software structure.
 
-CRUD completo
+Highlights:
 
-POO (herança, abstração, repositórios)
+Full CRUD implementation
 
-Persistência em arquivos binários
+Object-Oriented Programming (inheritance, abstraction, repositories)
 
-Código organizado e documentado
+Binary file persistence
 
-🎯 O que eu busco
+Modular and documented codebase
 
-Estou em busca de uma oportunidade como Desenvolvedora Full Stack Júnior ou Estágio Full Stack, com foco em backend, onde eu possa aprender, contribuir e evoluir junto com o time.
+Stack:
+Java · OOP · Git
 
-📬 Bora conversar?
+🎯 Career Goal
 
-💼 LinkedIn
+Seeking a Full Stack Junior or Backend Junior position where I can contribute to production-grade systems, improve my engineering skills and grow alongside experienced teams.
 
-💻 GitHub
+📡 Connect with me
 
-⭐ Curtiu algum projeto? Uma estrela já faz meu dia 😄
+💼 LinkedIn: https://www.linkedin.com/in/alexandra-almeida-b74404180
 
-⚡ Curiosidade rápida
+💻 GitHub: https://github.com/Alexandra-Almeida-DV
 
-Gosto de código limpo, README bem escrito e commits que contam história.
-Se você também, já temos algo em comum 😉
+⭐ If you find something useful here, feel free to star the repository.
+
+🧩 Engineering mindset
+
+I care about:
+
+Code readability over cleverness
+
+Explicit architecture decisions
+
+Systems that are easy to extend and reason about
