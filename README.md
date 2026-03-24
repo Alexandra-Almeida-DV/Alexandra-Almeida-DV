@@ -1,124 +1,55 @@
 👩‍💻 Alexandra Almeida
+<p align="start"> 
+<img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Data+Driven+Apps;Building+real+world+projects" /> </p>
 
-Full Stack Junior Developer
-Backend-first | Python & FastAPI · Frontend | React & TypeScript
+🚀 Sobre mim
+Desenvolvedora Full Stack focada na construção de aplicações modernas orientadas a dados.<br>
+Tenho experiência com desenvolvimento de dashboards, integração com APIs reais e criação de interfaces com foco em performance e experiência do usuário.<br>
+Busco evoluir constantemente em arquitetura de software e desenvolvimento de produtos escaláveis.
 
-Construo aplicações web com foco em arquitetura, organização de código e regras de negócio bem definidas.
-Tenho preferência por backend, onde atuo na modelagem de APIs REST, validação de dados e estruturação de sistemas pensados para crescimento e manutenção.
+🧠 Stack Tecnológica
+🎨 Frontend:
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css" /> </p>
+⚙️ Backend:
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+🗄️ Banco de Dados:
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" /> </p>
+🛠️ Ferramentas:
+<p> <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" /> </p>
 
-No frontend, utilizo React com TypeScript para garantir integração consistente com o backend e uma experiência de uso sólida.
+📊 Estatísticas
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandra-Almeida-DV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandra-Almeida-DV&layout=compact&langs_count=6&theme=tokyonight"/> </p>
 
-⚙️ Tech Stack
-Backend
+🌾 Projeto em Destaque <br>
+🔥 Agricultura Data Dashboard
 
-Python
+Aplicação web para análise de dados agrícolas com integração de API climática.
 
-FastAPI
+✨ Destaques:
 
-RESTful APIs
+Dashboard interativo e responsivo
+Integração com OpenWeather API
+Visualização de dados em tempo real
+Foco em UX e organização de dados
 
-Pydantic
+🔗 Acesse:
+https://agricultura-data-dashboard.vercel.app/
 
-JWT (conceitos)
+📂 Repositório:
+https://github.com/Alexandra-Almeida-DV/agricultura-data-dashboard
 
-Frontend
+🧠 Em evolução
+Arquitetura de Software
+Sistemas orientados a dados
+Integração com APIs externas
+Construção de produtos escaláveis
 
-React
+[![Deploy](https://img.shields.io/badge/Deploy-Vercel-black)](https://agricultura-data-dashboard.vercel.app/)
+[![Repository](https://img.shields.io/badge/Code-GitHub-blue)](https://github.com/Alexandra-Almeida-DV/agricultura-data-dashboard)
+[![API](https://img.shields.io/badge/API-OpenWeather-blue)](https://openweathermap.org/api)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin)](https://www.linkedin.com/in/alexandra-almeida-b74404180/)
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-green)](https://agricultura-data-dashboard.vercel.app/)
+[![Code](https://img.shields.io/badge/💻-Source%20Code-black)](https://github.com/Alexandra-Almeida-DV/agricultura-data-dashboard)
 
-TypeScript
-
-HTML5
-
-CSS3
-
-Databases
-
-SQLite
-
-MongoDB
-
-PostgreSQL (conceitos)
-
-Engineering
-
-Git & GitHub
-
-Software Architecture
-
-Clean Code
-
-Domain-driven thinking (conceitos)
-
-🧠 Selected Projects
-🔹 Reusable Backend API (FastAPI)
-
-Backend API projetada para ser reutilizável em múltiplas aplicações.
-
-Highlights:
-
-Modular architecture (routers, services, schemas)
-
-Automatic API documentation (Swagger / OpenAPI)
-
-Health check endpoint
-
-Contact endpoint with email integration
-
-Environment-based configuration with Pydantic v2
-
-Stack:
-Python · FastAPI · REST · Git
-
-🔹 Institutional Website – Psychotherapist
-
-Frontend application developed with real-world hosting constraints and user experience in mind.
-
-Highlights:
-
-Responsive layout
-
-Clean component structure
-
-Backend integration ready
-
-Stack:
-React · TypeScript · Vite
-
-🔹 Java Registration System (OOP)
-
-Backend-oriented academic project focused on software structure.
-
-Highlights:
-
-Full CRUD implementation
-
-Object-Oriented Programming (inheritance, abstraction, repositories)
-
-Binary file persistence
-
-Modular and documented codebase
-
-Stack:
-Java · OOP · Git
-
-🎯 Career Goal
-
-Seeking a Full Stack Junior or Backend Junior position where I can contribute to production-grade systems, improve my engineering skills and grow alongside experienced teams.
-
-📡 Connect with me
-
-💼 LinkedIn: https://www.linkedin.com/in/alexandra-almeida-b74404180
-
-💻 GitHub: https://github.com/Alexandra-Almeida-DV
-
-⭐ If you find something useful here, feel free to star the repository.
-
-🧩 Engineering mindset
-
-I care about:
-
-Code readability over cleverness
-
-Explicit architecture decisions
-
-Systems that are easy to extend and reason about
+📫 Contato
+<p align="left"> <a href="https://www.linkedin.com/in/alexandra-almeida-b74404180/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin"> </a> <a href="mailto:almeidaalexandra04@gmail.com"> <img src="https://img.shields.io/badge/-Email-0A0A0A?style=for-the-badge&logo=gmail"> </a> </p>
