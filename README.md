@@ -7,7 +7,7 @@ Desenvolvedora Full Stack focada na construção de aplicações modernas orient
 Tenho experiência com desenvolvimento de dashboards, integração com APIs reais e criação de interfaces com foco em performance e experiência do usuário.<br>
 Busco evoluir constantemente em arquitetura de software e desenvolvimento de produtos escaláveis.
 
-🧠 Stack Tecnológica
+🧠 Stack Tecnológica<br>
 🎨 Frontend:
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css" /> </p>
 ⚙️ Backend:
